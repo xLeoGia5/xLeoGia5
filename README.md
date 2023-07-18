@@ -1,16 +1,29 @@
-### Hi there 👋
+# Olá, me chamo Leonardo Giaquinto.
+## Bem vindo ao meu perfil GitHub 👋.
 
-<!--
-**xLeoGia5/xLeoGia5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estou aprendendo
+  
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
 
-Here are some ideas to get you started:
+ #
+          
+- 🔭 Atualmente estou trabalhando em um projeto de um aplicativo no *Power apps* com integração com o *GitHub* <p>
+- 🌱 Atualmente estou aprendendo Analise e Desenvolvimento de sistema no IFSP. <p>
+- 👯 Estou procurando colaborar em arquivos de passo-a-passo para executar determinadas funções. <p>
+- 🤔 Estou procurando ajuda em como mexer no *GitHub*. <p>
+- 💬 Pergunte-me sobre o que precisar. (Estou aberto a trocas de informações) <p>
+- 📫 Como entrar em contato comigo: E-mail: xleonardogiaquinto@gmail.com <p>
+- 😄 Pronomes: Masculino. <p>
+- ⚡ Curiosidade: Gosto muito de taticas de Lógica de programação.  <p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+![Snake animation](https://github.com/xLeoGia5/xLeoGia5/blob/output/github-contribution-grid-snake.svg)
+
+#
+  
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xLeoGia5&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=xLeoGia5&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
