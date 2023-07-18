@@ -8,7 +8,7 @@
  #
           
 - 🔭 Atualmente estou trabalhando em um projeto de um aplicativo no *Power apps* com integração com o *GitHub* <p>
-- 🌱 Atualmente estou aprendendo Analise e Desenvolvimento de sistema no IFSP. <p>
+- 🌱 Atualmente estou cursando Tecnologia em Analise e Desenvolvimento de Sistemas no IFSP. <p>
 - 👯 Estou procurando colaborar em arquivos de passo-a-passo para executar determinadas funções. <p>
 - 🤔 Estou procurando ajuda em como mexer no *GitHub*. <p>
 - 💬 Pergunte-me sobre o que precisar. (Estou aberto a trocas de informações) <p>
