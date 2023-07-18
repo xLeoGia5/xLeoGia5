@@ -17,10 +17,6 @@
 - ⚡ Curiosidade: Gosto muito de taticas de Lógica de programação.  <p>
 
 #
-
-![Snake animation](https://github.com/xLeoGia5/xLeoGia5/blob/output/github-contribution-grid-snake.svg)
-
-#
   
 <div>
 <a href="https://github.com/seu-usuário-aqui">
